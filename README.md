@@ -1,6 +1,7 @@
 
 ### Contacts:
 [![Linkedin Badge](https://img.shields.io/badge/-Ivan_Amakhin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanamah/)](https://www.linkedin.com/in/vanamah/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-383838?style=plastic&logo=telegram&logoColor=A084CA)](https://t.me/vanamah)
 <a href="mailto:ivamakhin@gmail.com"><img src="https://img.shields.io/badge/-ivamakhin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ### Languages
