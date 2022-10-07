@@ -13,6 +13,6 @@
 
 ### Tech Stack
 - 🏛 **Architecture**: MVC, MVVM, MVP, [ComposableArchitecture](https://github.com/pointfreeco/swift-composable-architecture)
-- ⚡ **Reactive programming**: [RxSwift](https://github.com/ReactiveX/RxSwift), [RxCocoa](https://github.com/ReactiveX/RxSwift/tree/main/RxCocoa), [RxGesture](https://github.com/RxSwiftCommunity/RxGesture), [RxMoya](https://github.com/Moya/Moya), [NSObject-Rx](https://github.com/RxSwiftCommunity/NSObject-Rx), [RxWebKit](https://github.com/RxSwiftCommunity/RxWebKit), [Combine](https://developer.apple.com/documentation/combine)
+- ⚡ **Reactive programming**: [RxSwift](https://github.com/ReactiveX/RxSwift), [Combine](https://developer.apple.com/documentation/combine)
 - 🌍 **Network**: [Alamofire](https://github.com/Alamofire/Alamofire), [Moya](https://github.com/Moya/Moya)
 - ⚙ **Instruments**: [SwiftLint](https://github.com/realm/SwiftLint), [SwiftGen](https://github.com/SwiftGen/SwiftGen), [SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
